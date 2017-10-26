@@ -22,5 +22,9 @@ elif conv_option == "3":
     for i in keys:
         print(story_list[i])
         print(word_list[i].title())
+elif conv_option == "4":
+    for i in keys:
+        print(story_list[i])
+        print(word_list[i])
 
        
