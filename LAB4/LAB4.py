@@ -27,4 +27,6 @@ elif conv_option == "4":
         print(story_list[i])
         print(word_list[i])
 
+d.close()
+f.close()
        
